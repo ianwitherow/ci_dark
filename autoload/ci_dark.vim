@@ -5,7 +5,7 @@
 
 let s:colors = {}
 
-let s:colors.black = '#24292e'
+let s:colors.black = '#141719'
 let s:colors.red = '#f97583'
 let s:colors.green = '#85e89d'
 let s:colors.yellow = '#ffea7f'
